@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Handphone</folder>
+	<filename>44f49e858e574a20a4989e385abd18a1.jpg</filename>
+	<path>C:\Users\Indra\JupyterNotebook\dataset iki\percobaan 2\Handphone\44f49e858e574a20a4989e385abd18a1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>887</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Handphone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>1</ymin>
+			<xmax>716</xmax>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+</annotation>

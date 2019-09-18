@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mouse</folder>
+	<filename>02b22550a77949ff80a31aa7fbddc3e5.jpg</filename>
+	<path>C:\Users\Indra\JupyterNotebook\dataset iki\percobaan 2\Mouse\02b22550a77949ff80a31aa7fbddc3e5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>85</ymin>
+			<xmax>554</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

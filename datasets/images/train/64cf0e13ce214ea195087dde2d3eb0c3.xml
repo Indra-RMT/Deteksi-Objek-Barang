@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Headphone</folder>
+	<filename>64cf0e13ce214ea195087dde2d3eb0c3.jpg</filename>
+	<path>C:\Users\Indra\JupyterNotebook\dataset iki\percobaan 2\Headphone\64cf0e13ce214ea195087dde2d3eb0c3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>3</ymin>
+			<xmax>642</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

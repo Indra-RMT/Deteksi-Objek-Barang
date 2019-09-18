@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kamera</folder>
+	<filename>2237cd2ba7b845e9930a108d1be1f7e9.jpg</filename>
+	<path>C:\Users\Indra\JupyterNotebook\dataset iki\percobaan 2\Kamera\2237cd2ba7b845e9930a108d1be1f7e9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>991</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kamera</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1000</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

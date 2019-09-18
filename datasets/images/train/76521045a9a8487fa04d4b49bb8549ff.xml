@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Laptop</folder>
+	<filename>76521045a9a8487fa04d4b49bb8549ff.png</filename>
+	<path>C:\Users\Indra\JupyterNotebook\dataset iki\percobaan 2\Laptop\76521045a9a8487fa04d4b49bb8549ff.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>573</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>12</ymin>
+			<xmax>573</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>
